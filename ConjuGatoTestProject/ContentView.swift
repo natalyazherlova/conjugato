@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("It's going to be a lookalike to ConjuGato app")
+            Text("It's going to be a lookalike to ConjuGato app")
         }
         .padding()
     }
